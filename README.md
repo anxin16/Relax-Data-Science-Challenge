@@ -1,6 +1,6 @@
 # Relax Data Science Challenge
 The data is a vailable as two attached CSV files:   
-*takehome_user_engagement.csv*
+*takehome_user_engagement.csv*  
 *takehome_users.csv*
 
 The data has the following two tables:   
@@ -10,7 +10,7 @@ The data has the following two tables:
 ● __object_id__: the user's id   
 ● __email__: email address   
 ● __creation_source__: how their account was created. This takes on one of 5 values:   
-    + __PERSONAL_PROJECTS__: invited to join another user's personal workspace   
+○ __PERSONAL_PROJECTS__: invited to join another user's personal workspace   
 ○ __GUEST_INVITE__: invited to an organization as a guest (limited permissions)   
 ○ __ORG_INVITE__: invited to an organization ( as a full member)   
 ○ __SIGNUP__: signed up via the website   
