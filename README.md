@@ -10,11 +10,11 @@ The data has the following two tables:
 ● __object_id__: the user's id   
 ● __email__: email address   
 ● __creation_source__: how their account was created. This takes on one of 5 values:   
-    ○ __PERSONAL_PROJECTS__: invited to join another user's personal workspace   
-    ○ __GUEST_INVITE__: invited to an organization as a guest (limited permissions)   
-    ○ __ORG_INVITE__: invited to an organization ( as a full member)   
-    ○ __SIGNUP__: signed up via the website   
-    ○ __SIGNUP_GOOGLE_AUTH__: signed up using Google Authentication ( using a Google email account for their login id)   
+        ○ __PERSONAL_PROJECTS__: invited to join another user's personal workspace   
+        ○ __GUEST_INVITE__: invited to an organization as a guest (limited permissions)   
+        ○ __ORG_INVITE__: invited to an organization ( as a full member)   
+        ○ __SIGNUP__: signed up via the website   
+        ○ __SIGNUP_GOOGLE_AUTH__: signed up using Google Authentication ( using a Google email account for their login id)   
 ● __creation_time__: when they created their account   
 ● __last_session_creation_time__: unix timestamp of last login   
 ● __opted_in_to_mailing_list__: whether they have opted into receiving marketing emails   
