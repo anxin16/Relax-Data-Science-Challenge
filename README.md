@@ -1,5 +1,5 @@
 # Relax Data Science Challenge
-The data is a vailable as two attached CSV files:   
+The data is available as two attached CSV files:   
 *takehome_user_engagement.csv*  
 *takehome_users.csv*
 
