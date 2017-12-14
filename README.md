@@ -35,5 +35,3 @@ The most important 3 factors predict future user adoption are:
 3. **opted_in_to_mailing_list**: whether they have opted into receiving marketing emails
 
 Also, **creation_source_PERSONAL_PROJECTS** (invited to join another user's personal workspace) and **enabled_for_marketing_drip** (whether they are on the regular marketing email drip) are important as well. 
-
-So, 
